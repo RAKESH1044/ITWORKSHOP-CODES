@@ -1,0 +1,31 @@
+beamer
+\documentclass{beamer}
+\usetheme{Boadilla}
+\usepackage{graphicx}
+\title{\textit{\textcolor{red}{RAKESH}}}
+\author{\textcolor{blue}{-CSE Department}}
+\begin{document}
+% Title page frame
+
+\begin{frame}
+\titlepage
+\end{frame}
+\begin{frame}
+\begin{center}
+    \textsl{\Huge OUTLINE:-}
+  
+\end{center}
+  
+        \begin{itemize}
+        
+        \item \textcolor{violet}{\Huge Self introduction}
+        \item \textcolor{purple}{\Huge Mark sheet}
+        \item \textcolor{teal}{\Huge Image insertion}
+    \end{itemize}
+    
+
+\end{frame}
+\begin{frame}
+\begin{center}
+    \textit{\textcolor{magenta}{\Huge self introduction}}
+\end{center}
