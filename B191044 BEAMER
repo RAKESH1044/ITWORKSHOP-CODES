@@ -1,0 +1,79 @@
+
+\documentclass{beamer}
+\usepackage[utf8]{inputenc}
+\usetheme{Madrid}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\useoutertheme{miniframes}
+\useinnertheme{circles}
+\definecolor{CHITTE.RAKESH }{rgb}{0.04706, 0.13725, 0.26667}
+\usecolortheme[named=RAKESH]{structure}
+
+\title{Welcome\\ to\\ My Presentation}
+\author{\textbf {CHITTE RAKESH ID : B191044}}
+\logo{\includegraphics[width=0.2\textwidth]{rgukt_logo.jpg}}
+
+
+\begin{document}
+
+\maketitle
+
+\begin{frame}
+    \centering
+    \textbf{\large{SOCIAL MEDIA... ...}}
+    
+    \begin{figure}
+        \centering
+        \includegraphics[width=0.2]{social3.jpg}
+    \end{figure}
+\end{frame}
+
+\begin{frame}
+\centering
+    \textbf{\large{WHAT IS SOCIAL MEDIA?}}
+\end{frame}
+
+\begin{frame}{What is social media???}
+\begin{columns}
+\column{0.6\textwidth}
+\begin{itemize}
+    \item \textit{Social media is the collective of online communication channels}
+    \item \textit{Its dedicated to community-based input interaction contest-sharing and collaboration}
+    \end{itemize}
+\column{0.4\textwidth}
+ \begin{figure}
+    \centering
+    \includegraphics[width=0.9\textwidth]{social2.jpg}
+\end{figure}
+   
+ \end{columns}
+ 
+\end{frame}
+
+\begin{frame}{LIST OF SOCIAL NETWORKING SITES}
+    \begin{columns}
+       \column{0.4\textwidth}
+       \begin{itemize}
+           \item \textit{Facebook}
+           \item \textit{Watsapp}
+           \item \textit{Youtube}
+           \item \textit{Twitter}
+           \item \textit{Instagram}
+           \item \textit{Linked in}
+       \end{itemize}
+       \column{0.6\textwidth}
+       \begin{figure}
+        \includegraphics[width=0.6\textwidth]{social3.jpg}
+       \end{figure}
+    \end{columns}
+\end{frame}
+
+\begin{frame}{endpage}
+\centering
+\textbf{\textsc{THANK YOU... ...}}
+\end{frame}
+
+\end{document}
+
+
+

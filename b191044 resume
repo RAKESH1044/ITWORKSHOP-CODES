@@ -1,0 +1,60 @@
+
+
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\title{\textbf{\color{red}RESUME}}
+\author{About \textbf{ CHITTE RAKESH}}
+\date{August 2022}
+\begin{document}
+\maketitle
+\section*{\color{blue}{1. PERSONAL DETAILS}}
+\textbf {NAME : } 
+\textit{CHITTE RAKESH}\\
+\textbf{AGE : } 
+\textit{19 years}\\
+\textbf{DOB :} 
+\textit{18 JAN 2003}\\
+\textbf{FATHER'S NAME :}
+\textit{CHITTE RAVI}\\
+\textbf{ADRESS }
+\textit{H.NO:6-3-23/6/4,NALLABELLY(MANDAL),WARANGAL(DISTRICT),TELANGANA 509001,INDIA)}
+\section*{\color{blue}{2. EDUCATION DETAILS}}
+\textbf{YEAR and SEM :}
+\textit{E1S2}\\
+\textbf{BRANCH : }
+\textit{Computer Science Engineering}\\
+\textbf{CLASS : }
+\textit{C1}\\
+\textbf{COLLEGE : }
+\textit{\textbf{RGUKT,Basar}}\\
+\section*{3.MARKS OBTAINED}
+\begin{table}[h]
+    \centering
+    \begin{tabular}{|c|c|c|}
+        \hline
+Sno. & Sub & grade\\
+\hline
+1 & maths & 10\\
+\hline
+2 & phy & 10\\
+\hline
+3 & eng & 9\\
+\hline
+4 & TOTAL & 9.8\\
+\hline
+\end{tabular}
+\end{table}
+\section*{\color{blue}{4. HOBBIES}}
+
+\begin{itemize}
+    \item LISTENING MUSIC
+    \item LISTENING UPSC INTERVIEWS
+    \item BROWSING NET
+\end{itemize}
+\end{document}
+
+
+
